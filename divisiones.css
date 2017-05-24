@@ -1,0 +1,46 @@
+div.text1 {
+
+	padding-bottom: 400px;
+	position: relative;
+	left: 900px;
+	bottom: 400px;
+	background-color: #000;
+	color: #ffffff;
+	padding top: 20px;
+	padding-right: 10px;
+	padding-left: 10px;
+	width: 400px;
+	padding-bottom: 10px;
+}
+body {
+	background-color: #ffffff;
+}
+
+div.carousel{
+	position: relative;
+	left: 25px;
+}
+
+div.item {
+	width: 1000px;
+	height: 200px;
+}
+
+img {
+	width: 1000px;
+	height: 200px;
+	position: relative;
+	top: 20px;
+}
+
+div.container {
+position: relative;
+margin-left: 20px;
+bottom: 50px;
+}
+
+
+div.navbar navbar-inverse {
+	position: relative;
+	bottom: 90px;
+}
